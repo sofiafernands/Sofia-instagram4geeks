@@ -1,0 +1,22 @@
+body{
+    margin:auto;
+}
+.logo-ig{
+    width: 30px;
+    height: 30px;
+}
+.logo-ajuste{
+    width:55px;
+    height: 40px;
+    margin:0px;
+}
+.btn-group{
+    margin-left: 6px;
+}
+.logo-location {
+    width:30px;
+    height: 30px;
+}
+.card-title {
+    font-size: small;
+}
